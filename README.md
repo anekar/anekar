@@ -19,8 +19,8 @@ Exploratory Data Analysis, Data Visualization and  Data Cleaning
 <br>
 
 ```
-Currently working on a Data Cleaning Project with R and it will be created with Google Collab.
-Currently learning Data Analysis fundamentals , Algorithms and Data Structures.
+Currently working on a Data Cleaning Project with R.
+Learning Data Analysis fundamentals , Algorithms and Data Structures.
 ```
 
  <br>
