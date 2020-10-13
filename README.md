@@ -1,5 +1,5 @@
 
-I am focusing in Data Analysis projects and programming languages . I have completed projects with the most important languages of data analysis in order to learn them the best i can. 
+I am focusing in Data Analysis projects and programming languages, also i have completed projects with the most important languages of data analysis in order to learn them the best i can. 
 
 ``` 
 Python R  SQL
@@ -21,5 +21,7 @@ Learning Data Analysis fundamentals , Algorithms and Data Structures.
 Reach me for project ideas and contributions 
 <br>
 Email me : anestis.karonidis@gmail.com or <br>
-Connect with me : https://www.linkedin.com/in/anestis-karonidis/ <br>
+Connect with me : https://www.linkedin.com/in/anestis-karonidis/ 
+<br>
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=Anestis-K&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
