@@ -27,4 +27,4 @@ Learning Data Analysis fundamentals , Algorithms and Data Structures.
 Reach me for project ideas and contributions 
 <br>
 Email me : anestis.karonidis@gmail.com or <br>
-Connect with me : https://www.linkedin.com/in/anestis-karonidis/
+Connect with me : https://www.linkedin.com/in/anestis-karonidis/ <br>
