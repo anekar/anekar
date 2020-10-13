@@ -1,4 +1,6 @@
-![github stats](https://github-readme-stats.vercel.app/api?username=Anestis-K&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anestis-K&layout=dark)](https://github.com/Anestis-K/github-readme-stats)
+![github stats](https://github-readme-stats.vercel.app/api?username=Anestis-K&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anestis-K&layout=stats)](https://github.com/Anestis-K/github-readme-stats)
 
 
 
