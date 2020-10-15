@@ -2,8 +2,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anestis-K&layout=compacthttps://github.com/Anestis-K/github-readme-stats)
 
-- Currently leaning Data Analysis fundamental processes
-- Currently working on Data Cleaning Project
+- Currently developing Data Analytics Projects
+- Currently learning Data Analytics
 - I'm looking to collaborate on ....Github
 - Favourite languages
 ```
