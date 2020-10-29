@@ -22,16 +22,26 @@ Python R SQL
 
 ## 🧰 Languages and Tools:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src=""alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src=""alt="R" height="40" style="vertical-align:top; margin:4px">
-<img src="" alt="SQL" height="40" style="vertical-align:top; margin:4px">
-<img src="" alt="SSMS" height="40" style="vertical-align:top; margin:4px">
-<img src="" alt="Git"  height="40" style="vertical-align:top; margin:4px">
-<img src="" alt="Github" height="40" style="vertical-align:top; margin:4px">
-<img src="" alt="Microsoft Excel" height="40" style="vertical-align:top; margin:4px">
-<img src="" alt="Tableau" height="40" style="vertical-align:top; margin:4px">
-<img src="" alt="Microsoft Power-Bi" height="40" style="vertical-align:top; margin:4px">
-<img src="" alt="IntelliJ" height="40" style="vertical-align:top; margin:4px">
-<img src="" alt="Jupyter Notebooks" height="40" style="vertical-align:top; margin:4px">
-<img src="" alt="Google Collab" height="40" style="vertical-align:top; margin:4px">
+
+<img src="https://www.r-project.org/Rlogo.png" alt="R" height="40" style="vertical-align:top; margin:4px">
+
+<img src="https://miro.medium.com/max/1200/1*Oe7xavCj5qCBzwTbLDbPTg.jpeg" alt="SQL" height="40" style="vertical-align:top; margin:4px">
+
+<img src="https://miro.medium.com/max/402/1*KTDZHTVaVbvbyhIf2PmBAw.png" alt="SSMS" height="40" style="vertical-align:top; margin:4px">
+
+<img src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4" alt="Git"  height="40" style="vertical-align:top; margin:4px">
+
+<img src="https://www.somagnews.com/wp-content/uploads/2020/04/75-e1586981465263.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmq42Wk8-sPEEhgjJzWjjIv8ok-CAM8_qeOw&usqp=CAU" alt="Microsoft Excel" height="40" style="vertical-align:top; margin:4px">
+
+<img src="https://pbs.twimg.com/profile_images/1268207088683020288/d9agkn4h.jpg" alt="Tableau" height="40" style="vertical-align:top; margin:4px">
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcStOKnbE1rXC9C_YnEpdTi47deAwisCke7lLA&usqp=CAU" alt="Microsoft Power-Bi" height="40" style="vertical-align:top; margin:4px">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/600px-IntelliJ_IDEA_Logo.svg.png" alt="IntelliJ" height="40" style="vertical-align:top; margin:4px">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="Project Jupyter" height="40" style="vertical-align:top; margin:4px">
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQaKni1sStigOWiG7eBHniMp5sjT2FfsPZ1Uw&usqp=CAU" alt="Google Collab" height="40" style="vertical-align:top; margin:4px">
 
