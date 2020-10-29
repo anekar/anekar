@@ -11,3 +11,12 @@ Python R SQL
 ```
 - How to reach me... Take a look at the left side of github 
 
+## ✉️ Find me on:
+
+
+<p align="center">
+ 
+ <a href="https://www.linkedin.com/in/anestis-karonidis/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
+ <a href="mailto:anestis.karonidis@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
+
