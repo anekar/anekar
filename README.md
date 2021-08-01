@@ -13,5 +13,4 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Anestis-K&theme=blue-green)
 
 
-https://img.shields.io/github/followers/Anestis-K?color=black&label=follow&logoColor=black&style=social
-https://img.shields.io/github/followers/Anestis-K?color=black&label=follow&logoColor=black&style=social
+
